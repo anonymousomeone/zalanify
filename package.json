@@ -1,0 +1,16 @@
+{
+  "name": "zalanifier",
+  "version": "1.0.3",
+  "description": "speak zalander",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "zalanifier()"
+  },
+  "author": "zalander",
+  "license": "MIT"
+}
